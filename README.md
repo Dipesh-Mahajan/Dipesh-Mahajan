@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/dipeshm1109" target="blank"><img src="https://img.shields.io/twitter/follow/dipeshm1109?logo=twitter&style=for-the-badge" alt="dipeshm1109" /></a> </p>
  -->
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **dipeshmahajan1109@gmail.com**
 
